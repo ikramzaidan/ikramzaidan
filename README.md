@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ikramzaidan
 - 👀 I’m interested in Skateboarding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PHP and Python
 - 📫 you can find me on instagram @ikramzaidan or twitter @ikramzaidann
 
 <!---
