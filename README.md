@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikramzaidan
-- 👀 I’m interested in Skateboarding
+- 👀 I’m interested in YOU
 - 🌱 I’m currently learning PHP and Python
 - 📫 you can find me on instagram @ikramzaidan or twitter @ikramzaidann
 
