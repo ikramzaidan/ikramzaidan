@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ikramzaidan
 - 👀 I’m interested in YOU
-- 🌱 I’m currently learning PHP and Python
-- 📫 you can find me on instagram @ikramzaidan or twitter @ikramzaidann
+- 🌱 I’m currently learning Golang
+- 📫 you can find me on instagram
 
 <!---
 ikramzaidan/ikramzaidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
